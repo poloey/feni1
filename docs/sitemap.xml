@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://polodev.github.com/feni1/posts/11-08-2018-class-1/</loc>
+    <loc>https://poloey.github.com/feni1/posts/11-08-2018-class-1/</loc>
     <lastmod>2018-08-11T16:51:19+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://polodev.github.com/feni1/about/</loc>
+    <loc>https://poloey.github.com/feni1/about/</loc>
   </url>
   
   <url>
-    <loc>https://polodev.github.com/feni1/categories/basic/</loc>
-    <lastmod>2018-08-11T16:51:19+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://polodev.github.com/feni1/tags/basic/</loc>
+    <loc>https://poloey.github.com/feni1/categories/basic/</loc>
     <lastmod>2018-08-11T16:51:19+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://polodev.github.com/feni1/categories/</loc>
+    <loc>https://poloey.github.com/feni1/tags/basic/</loc>
     <lastmod>2018-08-11T16:51:19+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://polodev.github.com/feni1/posts/</loc>
+    <loc>https://poloey.github.com/feni1/categories/</loc>
     <lastmod>2018-08-11T16:51:19+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://polodev.github.com/feni1/</loc>
+    <loc>https://poloey.github.com/feni1/posts/</loc>
     <lastmod>2018-08-11T16:51:19+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://polodev.github.com/feni1/tags/</loc>
+    <loc>https://poloey.github.com/feni1/</loc>
+    <lastmod>2018-08-11T16:51:19+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://poloey.github.com/feni1/tags/</loc>
     <lastmod>2018-08-11T16:51:19+06:00</lastmod>
     <priority>0</priority>
   </url>

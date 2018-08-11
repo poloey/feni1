@@ -1,9 +1,9 @@
 [
 {
-	"uri": "https://polodev.github.com/feni1/posts/11-08-2018-class-1/",
+	"uri": "https://poloey.github.com/feni1/posts/11-08-2018-class-1/",
 	"title": "class 1",
 	"tags": ["basic"],
-  "content": " essential command here is the essential command\ncd \u0026lt;foldername\u0026gt;  "
+  "content": " Command ~ - tilde means home directory\n mkdir - make directory - to create a folder touch - to create a file ls - listing - to check available file cd - change directory rm - remove file or folder cp - copy mv - move / cut pwd - present working directory  flag flag always start with hyphen -.\n a - all r - recursive f - force  Identifier  . - current folder .. - parent folder * - everything  Usages How to create a folder\nmkdir \u0026lt;folderName\u0026gt;  How to open/change/go to a folder\ncd \u0026lt;foldername\u0026gt;  how to create file\ntouch \u0026lt;filename\u0026gt;  how to know current working directory\npwd  how to copy a file\ncp \u0026lt;location 1\u0026gt; \u0026lt;location 2\u0026gt;  how to move a file\nmv \u0026lt;location 1\u0026gt; \u0026lt;location 2\u0026gt;  how to go back to parents folder\ncd ..  how to paste content in current folder\ncp \u0026lt;location 1\u0026gt; .  how to copy multiple contents or folder\ncp -r \u0026lt;location 1\u0026gt; \u0026lt;location 2\u0026gt;  how to remove a file\nrm \u0026lt;filename\u0026gt;  how to remove a folder\nrm -r \u0026lt;foldername\u0026gt;  how to delete everything\nrm -r *  "
 }]
 
 

@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Learning site</title>
-  <link rel="canonical" href="https://polodev.github.com/feni1/posts/11-08-2018-class-1/">
+  <link rel="canonical" href="https://poloey.github.com/feni1/posts/11-08-2018-class-1/">
   <link rel='icon' href='https://laracasts.com/favicons/apple-touch-icon.png' />
   <link rel='icon' href='/feni1/images/favicons/apple-touch-icon.png' />
 
@@ -64,40 +64,6 @@
   </h1>
   <hr/>
 
-  
-<div class='author meta ml-1'>
-  
-    <i class='fa fa-user'></i>
-    <a href='https://polodev.github.com/feni1//authors/polo-dev'>
-      Polo Dev
-    </a>
-  
-</div>
-
-
-<div class="meta">
-  <span class="date">
-    <i class='fa fa-calendar'></i>
-    August 11, 2018
-  </span>
-  <span class='reading_time'>
-      <i class='fa fa-clock'></i>
-    1 minutes
-  </span>
-  
-    <span class="category-block">
-      <i class='fa fa-folder'></i>
-      
-        
-        <a href="https://polodev.github.com/feni1/categories/basic">
-          basic
-        </a>
-      
-    </span>
-  
-
-</div>
-
 
   
   <div class="toc">
@@ -108,7 +74,10 @@
     <div id='toc_content'>
       <nav id="TableOfContents">
 <ul>
-<li><a href="#essential-command">essential command</a></li>
+<li><a href="#command">Command</a></li>
+<li><a href="#flag">flag</a></li>
+<li><a href="#identifier">Identifier</a></li>
+<li><a href="#usages">Usages</a></li>
 </ul>
 </nav>
     </div>
@@ -119,11 +88,99 @@
   <div class='article'>
     
 
-<h1 id="essential-command">essential command</h1>
+<h1 id="command">Command</h1>
 
-<p>here is the essential command</p>
+<p><code>~</code> - tilde means home directory</p>
+
+<ul>
+<li><code>mkdir</code> - make directory - to create a folder</li>
+<li><code>touch</code> - to create a file</li>
+<li><code>ls</code> - listing - to check available file</li>
+<li><code>cd</code> - change directory</li>
+<li><code>rm</code> - remove file or folder</li>
+<li><code>cp</code> - copy</li>
+<li><code>mv</code> - move / cut</li>
+<li><code>pwd</code> - present working directory</li>
+</ul>
+
+<h1 id="flag">flag</h1>
+
+<p>flag always start with hyphen <code>-</code>.</p>
+
+<ul>
+<li>a - all</li>
+<li>r - recursive</li>
+<li>f - force</li>
+</ul>
+
+<h1 id="identifier">Identifier</h1>
+
+<ul>
+<li><code>.</code> - current folder</li>
+<li><code>..</code> - parent folder</li>
+<li><code>*</code> - everything</li>
+</ul>
+
+<h1 id="usages">Usages</h1>
+
+<p>How to create a folder</p>
+
+<pre><code class="language-bash">mkdir &lt;folderName&gt;
+</code></pre>
+
+<p>How to open/change/go to a folder</p>
 
 <pre><code class="language-bash">cd &lt;foldername&gt;
+</code></pre>
+
+<p>how to create file</p>
+
+<pre><code class="language-bash">touch &lt;filename&gt;
+</code></pre>
+
+<p>how to know current working directory</p>
+
+<pre><code class="language-bash">pwd
+</code></pre>
+
+<p>how to copy a file</p>
+
+<pre><code class="language-bash">cp &lt;location 1&gt; &lt;location 2&gt;
+</code></pre>
+
+<p>how to move a file</p>
+
+<pre><code class="language-bash">mv &lt;location 1&gt; &lt;location 2&gt;
+</code></pre>
+
+<p>how to go back to parents folder</p>
+
+<pre><code class="language-bash">cd ..
+</code></pre>
+
+<p>how to paste content in current folder</p>
+
+<pre><code class="language-bash">cp &lt;location 1&gt; .
+</code></pre>
+
+<p>how to copy multiple contents or folder</p>
+
+<pre><code class="language-bash">cp -r &lt;location 1&gt; &lt;location 2&gt;
+</code></pre>
+
+<p>how to remove a file</p>
+
+<pre><code class="language-bash">rm &lt;filename&gt;
+</code></pre>
+
+<p>how to remove a folder</p>
+
+<pre><code class="language-bash">rm -r &lt;foldername&gt;
+</code></pre>
+
+<p>how to delete everything</p>
+
+<pre><code class="language-bash">rm -r *
 </code></pre>
 
   </div>
@@ -131,7 +188,7 @@
   
     <div class='tags py-3'>
       Tags: 
-        <a href="https://polodev.github.com/feni1/tags/basic">
+        <a href="https://poloey.github.com/feni1/tags/basic">
           basic
         </a>
       
