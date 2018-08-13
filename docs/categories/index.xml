@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Aug 2018 16:51:19 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 13 Aug 2018 17:39:29 +0600</lastBuildDate>
     
 	<atom:link href="https://poloey.github.com/feni1/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Basic</title>
       <link>https://poloey.github.com/feni1/categories/basic/</link>
-      <pubDate>Sat, 11 Aug 2018 16:51:19 +0600</pubDate>
+      <pubDate>Mon, 13 Aug 2018 17:39:29 +0600</pubDate>
       
       <guid>https://poloey.github.com/feni1/categories/basic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Html</title>
+      <link>https://poloey.github.com/feni1/categories/html/</link>
+      <pubDate>Mon, 13 Aug 2018 17:39:29 +0600</pubDate>
+      
+      <guid>https://poloey.github.com/feni1/categories/html/</guid>
       <description></description>
     </item>
     

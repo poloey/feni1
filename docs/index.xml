@@ -6,10 +6,21 @@
     <description>Recent content on Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Aug 2018 16:51:19 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 13 Aug 2018 17:39:29 +0600</lastBuildDate>
     
 	<atom:link href="https://poloey.github.com/feni1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Class 2</title>
+      <link>https://poloey.github.com/feni1/posts/13-08-2018-class-2/</link>
+      <pubDate>Mon, 13 Aug 2018 17:39:29 +0600</pubDate>
+      
+      <guid>https://poloey.github.com/feni1/posts/13-08-2018-class-2/</guid>
+      <description>opening project in sublime first open sublime editor. File &amp;gt; open folder
+boilerplate / starter tag 4  html head title body heading (h1 - h6) paragraph (p) bold / strong (b, strong) italic / emphasize (i, em) horizontal row (hr) break (br) anchor (a) image tag  basic rule Whatever we can achieve through in css, we should use css not html.
+basic html boilerplate code &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Document&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;  html 5 starter / boilerplate code &amp;lt;!</description>
+    </item>
     
     <item>
       <title>class 1</title>

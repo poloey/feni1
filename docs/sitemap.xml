@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://poloey.github.com/feni1/posts/13-08-2018-class-2/</loc>
+    <lastmod>2018-08-13T17:39:29+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://poloey.github.com/feni1/posts/11-08-2018-class-1/</loc>
     <lastmod>2018-08-11T16:51:19+06:00</lastmod>
   </url>
@@ -13,7 +18,7 @@
   
   <url>
     <loc>https://poloey.github.com/feni1/categories/basic/</loc>
-    <lastmod>2018-08-11T16:51:19+06:00</lastmod>
+    <lastmod>2018-08-13T17:39:29+06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,19 +30,31 @@
   
   <url>
     <loc>https://poloey.github.com/feni1/categories/</loc>
-    <lastmod>2018-08-11T16:51:19+06:00</lastmod>
+    <lastmod>2018-08-13T17:39:29+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://poloey.github.com/feni1/categories/html/</loc>
+    <lastmod>2018-08-13T17:39:29+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://poloey.github.com/feni1/tags/html/</loc>
+    <lastmod>2018-08-13T17:39:29+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://poloey.github.com/feni1/posts/</loc>
-    <lastmod>2018-08-11T16:51:19+06:00</lastmod>
+    <lastmod>2018-08-13T17:39:29+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://poloey.github.com/feni1/</loc>
-    <lastmod>2018-08-11T16:51:19+06:00</lastmod>
+    <lastmod>2018-08-13T17:39:29+06:00</lastmod>
     <priority>0</priority>
   </url>
   
