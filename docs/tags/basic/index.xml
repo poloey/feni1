@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Basic on Site</title>
-    <link>https://poloey.github.com/feni1/tags/basic/</link>
+    <link>https://poloey.github.io/feni1/tags/basic/</link>
     <description>Recent content in Basic on Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Aug 2018 16:51:19 +0600</lastBuildDate>
     
-	<atom:link href="https://poloey.github.com/feni1/tags/basic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://poloey.github.io/feni1/tags/basic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>class 1</title>
-      <link>https://poloey.github.com/feni1/posts/11-08-2018-class-1/</link>
+      <link>https://poloey.github.io/feni1/posts/11-08-2018-class-1/</link>
       <pubDate>Sat, 11 Aug 2018 16:51:19 +0600</pubDate>
       
-      <guid>https://poloey.github.com/feni1/posts/11-08-2018-class-1/</guid>
+      <guid>https://poloey.github.io/feni1/posts/11-08-2018-class-1/</guid>
       <description>Command ~ - tilde means home directory
  mkdir - make directory - to create a folder touch - to create a file ls - listing - to check available file cd - change directory rm - remove file or folder cp - copy mv - move / cut pwd - present working directory  flag flag always start with hyphen -.
  a - all r - recursive f - force  Identifier  .</description>

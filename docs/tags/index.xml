@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Site</title>
-    <link>https://poloey.github.com/feni1/tags/</link>
+    <link>https://poloey.github.io/feni1/tags/</link>
     <description>Recent content in Tags on Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Aug 2018 16:51:19 +0600</lastBuildDate>
     
-	<atom:link href="https://poloey.github.com/feni1/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://poloey.github.io/feni1/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Basic</title>
-      <link>https://poloey.github.com/feni1/tags/basic/</link>
+      <link>https://poloey.github.io/feni1/tags/basic/</link>
       <pubDate>Sat, 11 Aug 2018 16:51:19 +0600</pubDate>
       
-      <guid>https://poloey.github.com/feni1/tags/basic/</guid>
+      <guid>https://poloey.github.io/feni1/tags/basic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Html</title>
-      <link>https://poloey.github.com/feni1/tags/html/</link>
+      <link>https://poloey.github.io/feni1/tags/html/</link>
       <pubDate>Mon, 13 Aug 2018 17:39:29 +0600</pubDate>
       
-      <guid>https://poloey.github.com/feni1/tags/html/</guid>
+      <guid>https://poloey.github.io/feni1/tags/html/</guid>
       <description></description>
     </item>
     

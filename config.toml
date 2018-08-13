@@ -1,5 +1,5 @@
 relativeurls = false
-baseURL='https://poloey.github.com/feni1/'
+baseURL='https://poloey.github.io/feni1/'
 languageCode = "en-us"
 publishDir="docs"
 title = "Site"

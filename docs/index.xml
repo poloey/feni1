@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Site</title>
-    <link>https://poloey.github.com/feni1/</link>
+    <link>https://poloey.github.io/feni1/</link>
     <description>Recent content on Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Aug 2018 17:39:29 +0600</lastBuildDate>
     
-	<atom:link href="https://poloey.github.com/feni1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://poloey.github.io/feni1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Class 2</title>
-      <link>https://poloey.github.com/feni1/posts/13-08-2018-class-2/</link>
+      <link>https://poloey.github.io/feni1/posts/13-08-2018-class-2/</link>
       <pubDate>Mon, 13 Aug 2018 17:39:29 +0600</pubDate>
       
-      <guid>https://poloey.github.com/feni1/posts/13-08-2018-class-2/</guid>
+      <guid>https://poloey.github.io/feni1/posts/13-08-2018-class-2/</guid>
       <description>opening project in sublime first open sublime editor. File &amp;gt; open folder
 boilerplate / starter tag 4  html head title body heading (h1 - h6) paragraph (p) bold / strong (b, strong) italic / emphasize (i, em) horizontal row (hr) break (br) anchor (a) image tag  basic rule Whatever we can achieve through in css, we should use css not html.
 basic html boilerplate code &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Document&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;  html 5 starter / boilerplate code &amp;lt;!</description>
@@ -24,10 +24,10 @@ basic html boilerplate code &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;ti
     
     <item>
       <title>class 1</title>
-      <link>https://poloey.github.com/feni1/posts/11-08-2018-class-1/</link>
+      <link>https://poloey.github.io/feni1/posts/11-08-2018-class-1/</link>
       <pubDate>Sat, 11 Aug 2018 16:51:19 +0600</pubDate>
       
-      <guid>https://poloey.github.com/feni1/posts/11-08-2018-class-1/</guid>
+      <guid>https://poloey.github.io/feni1/posts/11-08-2018-class-1/</guid>
       <description>Command ~ - tilde means home directory
  mkdir - make directory - to create a folder touch - to create a file ls - listing - to check available file cd - change directory rm - remove file or folder cp - copy mv - move / cut pwd - present working directory  flag flag always start with hyphen -.
  a - all r - recursive f - force  Identifier  .</description>
